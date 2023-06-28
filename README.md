@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Assem</h1>
 <h3 align="center">software engineering</h3>
+- 🌱 I’m currently learning **problem solving**
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+
+- :school: I am a `learning Computer Science` from Faculty of Computers & Information at el-shorouk academy
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedassssem&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedassssem" /> </p>
 
