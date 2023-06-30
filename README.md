@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Assem</h1>
 Assem <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Hi +my name+ Ahmed +Assem;Computer+Science+Student;Competitive+Programmer;learing |problem solving|;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Hi +my name+is+ Ahmed +Assem;Computer+Science+Student;Competitive+Programmer;learing |problem solving|;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 - 🌱 I’m currently learning **problem solving**
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
